@@ -1,0 +1,15 @@
+/Users/juanfarcik/Desktop/t/bin/Debug/net6.0/t
+/Users/juanfarcik/Desktop/t/bin/Debug/net6.0/t.deps.json
+/Users/juanfarcik/Desktop/t/bin/Debug/net6.0/t.runtimeconfig.json
+/Users/juanfarcik/Desktop/t/bin/Debug/net6.0/t.dll
+/Users/juanfarcik/Desktop/t/bin/Debug/net6.0/ref/t.dll
+/Users/juanfarcik/Desktop/t/bin/Debug/net6.0/t.pdb
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/t.csproj.AssemblyReference.cache
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/t.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/t.AssemblyInfoInputs.cache
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/t.AssemblyInfo.cs
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/t.csproj.CoreCompileInputs.cache
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/t.dll
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/ref/t.dll
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/t.pdb
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/t.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/juanfarcik/Desktop/t/bin/Debug/net6.0/ChallengeTest
+/Users/juanfarcik/Desktop/t/bin/Debug/net6.0/ChallengeTest.deps.json
+/Users/juanfarcik/Desktop/t/bin/Debug/net6.0/ChallengeTest.runtimeconfig.json
+/Users/juanfarcik/Desktop/t/bin/Debug/net6.0/ChallengeTest.dll
+/Users/juanfarcik/Desktop/t/bin/Debug/net6.0/ref/ChallengeTest.dll
+/Users/juanfarcik/Desktop/t/bin/Debug/net6.0/ChallengeTest.pdb
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/ChallengeTest.csproj.AssemblyReference.cache
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/ChallengeTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/ChallengeTest.AssemblyInfoInputs.cache
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/ChallengeTest.AssemblyInfo.cs
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/ChallengeTest.csproj.CoreCompileInputs.cache
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/ChallengeTest.dll
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/ref/ChallengeTest.dll
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/ChallengeTest.pdb
+/Users/juanfarcik/Desktop/t/obj/Debug/net6.0/ChallengeTest.genruntimeconfig.cache
