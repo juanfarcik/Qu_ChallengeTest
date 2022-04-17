@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanfarcik\\source\\repos\\Qu_ChallengeTest\\ChallengeTest.csproj": {}
+    "C:\\Users\\juanfarcik\\source\\repos\\Qu_Challenge\\Qu_ChallengeTest\\ChallengeTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanfarcik\\source\\repos\\Qu_ChallengeTest\\ChallengeTest.csproj": {
+    "C:\\Users\\juanfarcik\\source\\repos\\Qu_Challenge\\Qu_ChallengeTest\\ChallengeTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanfarcik\\source\\repos\\Qu_ChallengeTest\\ChallengeTest.csproj",
+        "projectUniqueName": "C:\\Users\\juanfarcik\\source\\repos\\Qu_Challenge\\Qu_ChallengeTest\\ChallengeTest.csproj",
         "projectName": "ChallengeTest",
-        "projectPath": "C:\\Users\\juanfarcik\\source\\repos\\Qu_ChallengeTest\\ChallengeTest.csproj",
+        "projectPath": "C:\\Users\\juanfarcik\\source\\repos\\Qu_Challenge\\Qu_ChallengeTest\\ChallengeTest.csproj",
         "packagesPath": "C:\\Users\\juanfarcik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanfarcik\\source\\repos\\Qu_ChallengeTest\\obj\\",
+        "outputPath": "C:\\Users\\juanfarcik\\source\\repos\\Qu_Challenge\\Qu_ChallengeTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juanfarcik\\AppData\\Roaming\\NuGet\\NuGet.Config",
